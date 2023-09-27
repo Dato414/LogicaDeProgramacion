@@ -1,0 +1,1 @@
+alert("Realizar el factorial de los primeros N números.")
